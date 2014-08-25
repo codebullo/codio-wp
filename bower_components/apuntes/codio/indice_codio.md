@@ -1,0 +1,177 @@
+
+- Bienvenido `Welcome `
+- Empezando `Getting Started`
+- Tutoriales y ¿Como hacer? `Tutorials and How To`
+	- Node
+	- Ungit 
+    - a Git GUI
+	- Node.js Quick Start
+	- Learn Node at Nodeschool
+	- Ruby
+	- PHP
+	- PHPBrew Version Manager
+	- Composer
+	- Laravel
+	- CodeIgniter
+	- Symfony
+	- CakePHP
+	- Wordpress
+	- Drupal
+	- Joomla
+	- Grunt Tutorial
+	- Grunt Watch Tutorial
+	- Heroku
+	- Mean.io
+	- Yeoman Tutorial
+	- Syncing with Dropbox
+	- Ocaml Quick Start
+	- Plone
+	- Karma
+	- Phonegap Build
+	- OpenShift
+- Carácteristica `Feature Roundup`
+- Changelog
+- Suscripciones de pago `Paid Subscriptions`
+- Organizaciones `Organizations`
+    - Creár una organización `Creating an Organization`
+    - Añadir miembros `Adding members`
+    - Equipos `Teams`
+    - Facturación `Billing`
+	- Preferencias `Preferences`
+    - Proyectos públicos y privados `Public and Private Projects`
+- [Cajas](/3.boxes/01_boxes_intro.md) `Boxes`
+    - La ventana Terminal `The Terminal Window`
+    - Los paquetes Parts `Box Parts`
+    - Acceso a boxes y puertos `Accessing Boxes & Ports`
+    - Cajas dormidas `Sleepy Boxes`
+    - El elemento del menú `run`"Ejectuar" `The Run menu item`
+    - SSH en su caja `SSH into your Box`
+    - Codio Caja claves SSH `Codio Box SSH Keys`
+    - Localización de los archivos de código `Code Files Location`
+    - Reinicio y Reseteo `Restart and Reset`
+    - Servicios de Auto Arranque `Auto Starting Services`
+    - Siempre en Boxes `Always On Boxes`
+	- Clonación de Boxes `Cloning Boxes` 
+- El panel de control `The Dashboard`
+	- Cómo acceder a sus proyectos `Accessing your projects`
+	- Busqueda de proyectos `Searching projects`
+	- Acceso a proyectos de otras personas `Accessing other people's projects`
+	- Creación e importación de un proyecto `Creating and importing a project`
+	- Descripción de un proyecto `Project description`
+- Preferencias y ajustes `Preferences & Settings`
+	- Configuración de la cuenta `Account Settings`
+		- Perfil `Profile`
+		- Contraseña `Password`
+		- Claves SSH `SSH Key`
+		- GitHub
+		- BitBucket
+		- Eliminación de la cuenta `Deleting your Account`
+- Preferencias de usuario `User Preferences`
+- Preferencias del proyecto `Project preferences`
+- Lista de preferencias `Preferences List`
+- Configuración del proyecto `Project Settings`
+- Permisos `Permissions`
+- The Codio IDE
+	- Características básicas `Basic IDE Features`
+		- Como salir `Exiting the IDE`
+		- Edición de un archivo `Editing a file`
+		- Barra de comandos `Command Bar`
+		- Apertura rápida `Quick Open`
+		- Colaboración de código en tiempo real `Real time collaboration`
+		- Bifurcar un proyecto `Forking a Project`
+		- Guardado de archivos `Saving Files`
+		- Subir archivos `Uploading Files`
+		- Añadir archivos `Adding Files`
+		- Plantillas `Templates`
+		- Crear una carpeta `Creating a Folder`
+		- Borrar una carpeta `Deleting a folder`
+		- Arrastrar archivos y carpetas `Dragging files & folders`
+		- Páginas de información Readme `Readme info pages`
+		- Exportar una aplicación `Exporting an App`
+	- Edición de código `Code Editing`
+		- Atajos de teclado `Keyboard Shortcuts`
+		- Cursor multiple `Multiple cursors`
+		- Buscar y remplazar `Search and replace`
+		- Vista previa del Color y Picker `Color Preview & Picker`
+		- Forzar lenguaje a resaltar `Force language highlighting`
+	- Paneles y pestañas `Panels & Tabs`
+		- Acciones del panel `Panel actions`
+		- Pestañas a pantalla completa `Expand Tabs full screen`
+	- Previsualización `Preview`
+	- Compartir e incrustar `Sharing & Embedding`
+	- Autocompletado `Autocomplete`
+	- Beautify de codigo `Code Beautification`
+
+- Productividad `Productivity, Emmet, Zen Coding`
+
+	- Documentación Emmet Docs
+	- Abreviaciones `Abbreviations`
+	- Teclas especiales `Special Keyboard Actions`
+	- Referencia completa `Complete Reference`
+
+
+- Git, Mercurial & SVN
+
+	- Recursos `Resources`
+	- Claves SSH `SSH keys`
+	- Tutorial básico GIT `Very basic Git tutorial`
+	- Remotos GitHub and other remotes
+	- Rama activa `Active branch`
+
+- Despliegue / Host `Deployment`
+
+	- Crear/administrar un destino `Create/manage a target`
+	- Campo de ruta base `Base path field`
+	- Las claves públicas de servidores remotos `Public keys for remote servers`
+	- Acceso por terminal a servidores remotos `Terminal access to remotes`
+	- Desplegar a un destino `Deploying to a Target`
+	- Desplegar vía Rsync `Rsync Target Type`
+	- Desplegado vía FTP `FTP Target Type` 
+	- Desplegado vía SFTP `SFTP Target Type`
+	- Desplegado a Nodejitsu `Nodejitsu target type`
+	- Desplegado a Parse `Parse.com Target Type`
+	- Desplegado a Git `Git Target Type`
+	- Historíal de Despliegues `Deployment History`
+	- Despligue de archivos/carpetas específicas `Deploying specific files & folders`
+
+- Acceso remoto por terminal SSH `Remote SSH Terminal Access`
+
+	- Gestor de Conexiones SSH `SSH Connection Manager`
+	- Conexión rápida `Quick Connect`
+
+- Anotaciones y tutoriales en Codio `Codio Annotations & Tutorials`
+
+	- Ejemplo de proyecto con anotaciones `Example Annotations project`
+	- ¿Por qué usar anotaciones codio? `Why use Codio Annotations`
+	- Proyectos de ejemplo `Example Projects`
+	- Visita Guidada `Tour`
+	- Panel de anotaciones widths `Annotations panel widths`
+	- Explorando `Exploring`
+	- Auto-Comienzo desde URL `Auto-starting from a URL`
+	- Adición de tokens a archivos `Adding tokens to source files`
+	- Anotaciones en archivos `Annotating project files`
+	- Incrustación del tutorial IDE en una Web `Embedding a complete tutorial to page`
+	- Incrustando codigo en webs `Embedding snippets in web pages`
+	- Videos, imágenes, codigo y enlaces `Videos, images, code and links`
+	- El archivo README.md `The README.md file`
+	- Atajos de teclado que ayudan `Helper keyboard shortcuts`
+	- Defining Annotations in other IDEs
+	- Markdown overview
+
+- Bower
+	- Acceder a Bower `Accessing Bower`
+	- Buscar en Bower un componente `Finding a component`
+	- Usar un componente `Consuming a component`
+	- Actualizar un componente `Updating a component`
+	- Desistalar un componente `Uninstalling a component`
+	- Más sobre Bower `More about Bower`
+
+- Coffeescript, Less, SCSS etc
+	- Información general `Overview`
+	- Compilación de otro tipo de archivos `Other compiled file types`
+	- Compilación salida de cualquier archivo `Compiled output for any file`
+
+- Phonegap
+	- Autentificación `Authentication`
+	- El archivo config.xml `The config.xml file`
+	- Compilar, crear instalador nativo `Build` 

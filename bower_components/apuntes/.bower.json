@@ -1,0 +1,18 @@
+{
+  "name": "apuntes",
+  "main": "./",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "homepage": "https://github.com/zapcode/apuntes",
+  "_release": "d92e2bb1bc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d92e2bb1bca2ccad5b223fbc709cdd8f695d200c"
+  },
+  "_source": "git://github.com/zapcode/apuntes.git",
+  "_target": "*",
+  "_originalSource": "apuntes"
+}
